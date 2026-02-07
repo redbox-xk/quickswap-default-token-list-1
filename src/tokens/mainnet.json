@@ -44,6 +44,7 @@
     "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg",
     "trending": false
   },
+  
   {
     "name": "QuickSwap(NEW)",
     "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
@@ -70,7 +71,20 @@
     "chainId": 137,
     "logoURI": "https://i.imgur.com/lB49ZJ1.png",
     "trending": false
+  },{
+  "chainId": 1,
+  "address": "0xE430b07F7B168E77B07b29482DbF89EafA53f484",
+  "name": "One Premium",
+  "symbol": "OPM",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/ONEPREMIUM-Fundation/onepremium-crypto-asset/main/opm-logo.png",
+  "website": "https://onepremium.de",
+  "explorer": "https://etherscan.io/token/0xE430b07F7B168E77B07b29482DbF89EafA53f484",
+  "socials": {
+    "youtube": "https://m.youtube.com/@Onepremiumcoin"
   },
+  "description": "One Premium (OPM) is a verified ERC-20 token with official website, on-chain analytics, and community sources. This JSON is submitted for inclusion in the QuickSwap default token list."
+}
   {
     "name": "decentral.games",
     "address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
